@@ -1,0 +1,8 @@
+# Entorno virtual de Python
+venv/
+
+# Archivos del sistema macOS
+.DS_Store
+
+# Archivo .env con las API KEYS.
+.env
